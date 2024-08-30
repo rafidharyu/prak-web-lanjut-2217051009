@@ -38,7 +38,7 @@
                     </svg>
                 </div>
 
-                <h1 style="color: white; text-align: center; margin-top: 20px; font-size: 36px;" >RAFID HARYU NOVRIAN - 2217051017</h1>
+                <h1 style="color: white; text-align: center; margin-top: 20px; font-size: 36px;" >RAFID HARYU NOVRIAN - (2217051017)</h1>
 
                 <div class="mt-16">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
